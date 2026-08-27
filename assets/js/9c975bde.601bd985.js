@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkgodomall_docs_tmp=globalThis.webpackChunkgodomall_docs_tmp||[]).push([[2767],{6123(a){a.exports=JSON.parse('{"name":"release-notes-data","id":"default"}')}}]);
